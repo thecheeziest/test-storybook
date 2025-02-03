@@ -20,6 +20,7 @@
   "devDependencies": {
     "@chromatic-com/storybook": "3.2.4",
     "@eslint/js": "^9.17.0",
+    "@storybook/addon-designs": "^8.1.0",
     "@storybook/addon-essentials": "8.5.3",
     "@storybook/addon-interactions": "8.5.3",
     "@storybook/addon-onboarding": "8.5.3",
@@ -37,7 +38,6 @@
     "eslint-plugin-storybook": "^0.11.2",
     "globals": "^15.14.0",
     "storybook": "8.5.3",
-    "storybook-addon-designs": "^6.3.1",
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.18.2",
     "vite": "^6.0.5"
