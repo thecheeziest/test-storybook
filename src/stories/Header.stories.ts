@@ -27,6 +27,7 @@ export const LoggedIn: Story = {
     user: {
       name: 'Jane Doe',
     },
+    onLogout: fn(() => alert('Logging out')),
   },
 };
 
